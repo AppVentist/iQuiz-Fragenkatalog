@@ -1,14 +1,14 @@
 # iQuiz Fragenpakete
 
-Öffentlicher Paketkatalog für `IT-BW/iQuiz-Fragenkatalog`. Die App lädt nach Nutzerwahl geprüfte JSON-Pakete herunter und spielt sie anschließend offline ab.
+Öffentlicher Paketkatalog für `AppVentist/iQuiz-Fragenkatalog`. Die App lädt nach Nutzerwahl geprüfte JSON-Pakete herunter und spielt sie anschließend offline ab.
 
 Katalogadresse nach Aktivierung von GitHub Pages:
 
-`https://it-bw.github.io/iQuiz-Fragenkatalog/catalog.json`
+`https://appventist.github.io/iQuiz-Fragenkatalog/catalog.json`
 
 ## Erstveröffentlichung
 
-1. Ein öffentliches Repository `IT-BW/iQuiz-Fragenkatalog` anlegen (oder ein vorhandenes verwenden).
+1. Ein öffentliches Repository `AppVentist/iQuiz-Fragenkatalog` anlegen (oder ein vorhandenes verwenden).
 2. Den **Inhalt dieses Ordners** einschließlich `.github/workflows/pages.yml` in dessen Wurzelverzeichnis übernehmen. Nicht das gesamte App-Projekt hochladen.
 3. In **Settings → Pages → Build and deployment → Source** die Option **GitHub Actions** auswählen.
 4. Auf `main` veröffentlichen oder den Workflow „Validate and publish question packages“ manuell starten.
