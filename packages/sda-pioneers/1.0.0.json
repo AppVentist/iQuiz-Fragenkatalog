@@ -1,0 +1,130 @@
+{
+  "FormatVersion": 1,
+  "Id": "sda-pioneers",
+  "Version": "1.0.0",
+  "Title": "Pioniere der Adventisten",
+  "Description": "Mutige Menschen, bleibende Spuren",
+  "Artwork": 5,
+  "Questions": [
+    {
+      "Id": "sda-pioneers-001",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Anfänger",
+      "Text": "Was ist ein Pionier?",
+      "Answers": [
+        "Jemand, der neue Wege eröffnet",
+        "Ein Musikinstrument",
+        "Ein Gebäude",
+        "Ein Feiertag"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Pioniere leisten am Anfang einer Bewegung wichtige Aufbauarbeit.",
+      "Source": "Begriffserklärung"
+    },
+    {
+      "Id": "sda-pioneers-002",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Anfänger",
+      "Text": "Welche Frau gehörte zu den frühen adventistischen Mitgründern?",
+      "Answers": [
+        "Ellen White",
+        "Florence Nightingale",
+        "Marie Curie",
+        "Clara Schumann"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Ellen White gehörte mit James White und Joseph Bates zu den prägenden frühen Personen.",
+      "Source": "Adventist.org · Ellen G. White"
+    },
+    {
+      "Id": "sda-pioneers-003",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Anfänger",
+      "Text": "Was nutzten frühe Adventisten, um ihre Botschaft zu verbreiten?",
+      "Answers": [
+        "Zeitschriften und Bücher",
+        "Fernsehen",
+        "Smartphones",
+        "Podcasts"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Gedruckte Schriften spielten schon früh eine wichtige Rolle.",
+      "Source": "Adventist.org · Publishing work was central to early Adventist Church"
+    },
+    {
+      "Id": "sda-pioneers-004",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Bibelkundig",
+      "Text": "Welcher Pionier war früher Seefahrer und Kapitän?",
+      "Answers": [
+        "Joseph Bates",
+        "James White",
+        "William Miller",
+        "John Byington"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Joseph Bates war vor seiner Tätigkeit in der Adventbewegung Seemann und Kapitän.",
+      "Source": "ESDA · Bates, Joseph (1792–1872)"
+    },
+    {
+      "Id": "sda-pioneers-005",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Bibelkundig",
+      "Text": "Mit wem war Ellen White verheiratet?",
+      "Answers": [
+        "James White",
+        "Joseph Bates",
+        "William Miller",
+        "Uriah Smith"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Ellen Harmon heiratete James White im Jahr 1846.",
+      "Source": "Adventist.org · Ellen G. White"
+    },
+    {
+      "Id": "sda-pioneers-006",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Bibelkundig",
+      "Text": "Welches Thema vertrat Joseph Bates besonders nachdrücklich?",
+      "Answers": [
+        "Den Sabbat am siebten Tag",
+        "Den Bau von Kathedralen",
+        "Die Rückkehr nach Rom",
+        "Die Abschaffung des Bibelstudiums"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Joseph Bates prägte die frühe adventistische Sabbatüberzeugung.",
+      "Source": "ESDA · Bates, Joseph (1792–1872)"
+    },
+    {
+      "Id": "sda-pioneers-007",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Experte",
+      "Text": "Wer lehnte die Wahl zum ersten Präsidenten der Generalkonferenz ab?",
+      "Answers": [
+        "James White",
+        "Joseph Bates",
+        "William Miller",
+        "John Andrews"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "James White wollte den Eindruck vermeiden, er habe für eine Organisation zu seinem eigenen Vorteil geworben.",
+      "Source": "Adventist.org · Adventist denomination emerged amid debate over church structure"
+    },
+    {
+      "Id": "sda-pioneers-008",
+      "PackId": "sda-pioneers",
+      "Difficulty": "Experte",
+      "Text": "Welche drei Personen prägten gemeinsam die frühe sabbathaltende Adventbewegung?",
+      "Answers": [
+        "Ellen White, James White und Joseph Bates",
+        "Luther, Calvin und Zwingli",
+        "Petrus, Jakobus und Johannes",
+        "Wesley, Bach und Händel"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Die drei arbeiteten an den Überzeugungen und dem Aufbau der frühen Bewegung mit.",
+      "Source": "ESDA · Bates, Joseph (1792–1872)"
+    }
+  ]
+}

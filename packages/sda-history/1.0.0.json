@@ -1,0 +1,130 @@
+{
+  "FormatVersion": 1,
+  "Id": "sda-history",
+  "Version": "1.0.0",
+  "Title": "Adventgeschichte",
+  "Description": "Glaube, Aufbruch und weltweite Hoffnung",
+  "Artwork": 4,
+  "Questions": [
+    {
+      "Id": "sda-history-001",
+      "PackId": "sda-history",
+      "Difficulty": "Anfänger",
+      "Text": "Welcher Wochentag ist für Adventisten der Sabbat?",
+      "Answers": [
+        "Samstag",
+        "Montag",
+        "Dienstag",
+        "Donnerstag"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Adventisten feiern den siebten Wochentag als Sabbat.",
+      "Source": "2. Mose 20,8–11"
+    },
+    {
+      "Id": "sda-history-002",
+      "PackId": "sda-history",
+      "Difficulty": "Anfänger",
+      "Text": "Auf wen hoffen Adventisten bei der Wiederkunft?",
+      "Answers": [
+        "Jesus Christus",
+        "König David",
+        "Mose",
+        "Noah"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Die Hoffnung auf Jesu Wiederkunft gehört zum adventistischen Glauben.",
+      "Source": "Johannes 14,1–3"
+    },
+    {
+      "Id": "sda-history-003",
+      "PackId": "sda-history",
+      "Difficulty": "Anfänger",
+      "Text": "Welches Buch steht im Mittelpunkt des adventistischen Glaubens?",
+      "Answers": [
+        "Die Bibel",
+        "Ein Atlas",
+        "Ein Kochbuch",
+        "Ein Wörterbuch"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Die adventistische Bewegung entstand aus intensivem Bibelstudium.",
+      "Source": "Adventist.org · Our History"
+    },
+    {
+      "Id": "sda-history-004",
+      "PackId": "sda-history",
+      "Difficulty": "Bibelkundig",
+      "Text": "Was bedeutet Advent?",
+      "Answers": [
+        "Ankunft",
+        "Abschied",
+        "Wüste",
+        "Stadt"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Advent bezeichnet die Ankunft; der Name erinnert an die erwartete Wiederkunft Jesu.",
+      "Source": "Adventist.org · Our History"
+    },
+    {
+      "Id": "sda-history-005",
+      "PackId": "sda-history",
+      "Difficulty": "Bibelkundig",
+      "Text": "In welchem Jahr wurde die Freikirche organisatorisch gegründet?",
+      "Answers": [
+        "1863",
+        "1517",
+        "1914",
+        "1945"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "1863 wurde die Generalkonferenz der Siebenten-Tags-Adventisten gegründet.",
+      "Source": "Adventist.org · United for Mission: One Hundred and Fifty Years"
+    },
+    {
+      "Id": "sda-history-006",
+      "PackId": "sda-history",
+      "Difficulty": "Bibelkundig",
+      "Text": "Mit welchem Jahr verbindet sich die Große Enttäuschung?",
+      "Answers": [
+        "1844",
+        "1863",
+        "1901",
+        "1812"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Die nicht erfüllte Wiederkunftserwartung von 1844 prägte die frühe Adventbewegung.",
+      "Source": "Adventist.org · Our History"
+    },
+    {
+      "Id": "sda-history-007",
+      "PackId": "sda-history",
+      "Difficulty": "Experte",
+      "Text": "In welcher Stadt wurde 1863 die Generalkonferenz gegründet?",
+      "Answers": [
+        "Battle Creek",
+        "London",
+        "Hamburg",
+        "Rom"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Delegierte versammelten sich im Mai 1863 in Battle Creek, Michigan.",
+      "Source": "Adventist.org · Adventist denomination emerged amid debate over church structure"
+    },
+    {
+      "Id": "sda-history-008",
+      "PackId": "sda-history",
+      "Difficulty": "Experte",
+      "Text": "Aus welcher Bewegung ging die frühe Adventbewegung in den USA hervor?",
+      "Answers": [
+        "Der Millerbewegung",
+        "Der Oxfordbewegung",
+        "Dem Pietismus des 17. Jahrhunderts",
+        "Der Waldenserbewegung"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "William Millers Auslegung biblischer Zeitprophezeiungen prägte die Bewegung.",
+      "Source": "ESDA · Adventist Education, Origins of"
+    }
+  ]
+}

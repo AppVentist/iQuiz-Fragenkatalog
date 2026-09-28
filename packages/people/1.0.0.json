@@ -1,0 +1,130 @@
+{
+  "FormatVersion": 1,
+  "Id": "people",
+  "Version": "1.0.0",
+  "Title": "Personen der Bibel",
+  "Description": "Menschen, die Geschichte schrieben",
+  "Artwork": 2,
+  "Questions": [
+    {
+      "Id": "people-001",
+      "PackId": "people",
+      "Difficulty": "Anfänger",
+      "Text": "Wer besiegte Goliat?",
+      "Answers": [
+        "David",
+        "Jona",
+        "Noah",
+        "Zachäus"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "David vertraute Gott und trat Goliat entgegen.",
+      "Source": "1. Samuel 17"
+    },
+    {
+      "Id": "people-002",
+      "PackId": "people",
+      "Difficulty": "Anfänger",
+      "Text": "Wer wurde in eine Löwengrube geworfen?",
+      "Answers": [
+        "Daniel",
+        "Petrus",
+        "Abraham",
+        "Lukas"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Daniel hielt an seinem Gebet fest. Gott bewahrte ihn bei den Löwen.",
+      "Source": "Daniel 6"
+    },
+    {
+      "Id": "people-003",
+      "PackId": "people",
+      "Difficulty": "Anfänger",
+      "Text": "Wer kletterte auf einen Baum, um Jesus zu sehen?",
+      "Answers": [
+        "Zachäus",
+        "Mose",
+        "Paulus",
+        "Josef"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Zachäus war klein und stieg auf einen Maulbeerfeigenbaum.",
+      "Source": "Lukas 19,1–10"
+    },
+    {
+      "Id": "people-004",
+      "PackId": "people",
+      "Difficulty": "Bibelkundig",
+      "Text": "Wer sagte zu Noomi: Dein Volk ist mein Volk?",
+      "Answers": [
+        "Rut",
+        "Ester",
+        "Sara",
+        "Marta"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Rut blieb bei ihrer Schwiegermutter Noomi und begleitete sie.",
+      "Source": "Rut 1,16–17"
+    },
+    {
+      "Id": "people-005",
+      "PackId": "people",
+      "Difficulty": "Bibelkundig",
+      "Text": "Wer wurde als Kind nachts von Gott gerufen?",
+      "Answers": [
+        "Samuel",
+        "Salomo",
+        "Esra",
+        "Timotheus"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Eli half Samuel zu erkennen, dass Gott ihn rief.",
+      "Source": "1. Samuel 3,1–10"
+    },
+    {
+      "Id": "people-006",
+      "PackId": "people",
+      "Difficulty": "Bibelkundig",
+      "Text": "Welche Königin setzte sich für ihr bedrohtes Volk ein?",
+      "Answers": [
+        "Ester",
+        "Isebel",
+        "Atalja",
+        "Vashti"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Ester wagte es, vor den König zu treten und für ihr Volk zu bitten.",
+      "Source": "Ester 4–7"
+    },
+    {
+      "Id": "people-007",
+      "PackId": "people",
+      "Difficulty": "Experte",
+      "Text": "Wer begleitete Paulus auf seiner ersten Missionsreise?",
+      "Answers": [
+        "Barnabas",
+        "Silas",
+        "Apollos",
+        "Lukas"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Die Gemeinde in Antiochia sandte Barnabas und Saulus aus.",
+      "Source": "Apostelgeschichte 13,1–4"
+    },
+    {
+      "Id": "people-008",
+      "PackId": "people",
+      "Difficulty": "Experte",
+      "Text": "Welche Händlerin wurde in Philippi getauft?",
+      "Answers": [
+        "Lydia",
+        "Priszilla",
+        "Dorkas",
+        "Maria Magdalena"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Lydia handelte mit Purpurwaren und nahm die Botschaft des Paulus an.",
+      "Source": "Apostelgeschichte 16,14–15"
+    }
+  ]
+}

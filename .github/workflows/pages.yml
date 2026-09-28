@@ -1,0 +1,55 @@
+name: Validate and publish question packages
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: false
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+      - name: Keep published version files immutable
+        shell: pwsh
+        env:
+          BASE_SHA: ${{ github.event.pull_request.base.sha || github.event.before }}
+        run: |
+          if ($env:BASE_SHA -and $env:BASE_SHA -notmatch '^0+$') {
+            $changed = @(git diff --name-only --diff-filter=MD --no-renames $env:BASE_SHA HEAD -- 'packages/*/*.json')
+            if ($LASTEXITCODE -ne 0) { throw 'Could not compare package versions.' }
+            if ($changed.Count) { throw "Existing version files changed. Publish a new version instead: $($changed -join ', ')" }
+          }
+      - name: Validate catalog, questions and checksums
+        shell: pwsh
+        run: ./validate.ps1
+      - name: Prepare public files only
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Path _site
+          Copy-Item catalog.json,index.html -Destination _site
+          Copy-Item packages -Destination _site -Recurse
+      - uses: actions/upload-pages-artifact@v4
+        if: github.event_name != 'pull_request'
+        with:
+          path: _site
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: validate
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/configure-pages@v5
+      - uses: actions/deploy-pages@v4
+        id: deployment

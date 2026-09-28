@@ -1,0 +1,130 @@
+{
+  "FormatVersion": 1,
+  "Id": "ot",
+  "Version": "1.0.0",
+  "Title": "Altes Testament",
+  "Description": "Geschichten, Gesetz und Verheißungen",
+  "Artwork": 0,
+  "Questions": [
+    {
+      "Id": "ot-001",
+      "PackId": "ot",
+      "Difficulty": "Anfänger",
+      "Text": "Wer baute die Arche?",
+      "Answers": [
+        "Noah",
+        "Mose",
+        "David",
+        "Petrus"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Noah baute die Arche nach Gottes Auftrag.",
+      "Source": "1. Mose 6,13–22"
+    },
+    {
+      "Id": "ot-002",
+      "PackId": "ot",
+      "Difficulty": "Anfänger",
+      "Text": "Was erschien als Zeichen des Bundes nach der Flut?",
+      "Answers": [
+        "Ein Regenbogen",
+        "Ein Turm",
+        "Ein Stern",
+        "Ein Schwert"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Gott gab den Regenbogen als Zeichen seines Bundes.",
+      "Source": "1. Mose 9,12–17"
+    },
+    {
+      "Id": "ot-003",
+      "PackId": "ot",
+      "Difficulty": "Anfänger",
+      "Text": "Was fanden die Israeliten morgens in der Wüste zu essen?",
+      "Answers": [
+        "Manna",
+        "Trauben",
+        "Äpfel",
+        "Fische"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Gott versorgte sein Volk in der Wüste mit Manna.",
+      "Source": "2. Mose 16,14–18"
+    },
+    {
+      "Id": "ot-004",
+      "PackId": "ot",
+      "Difficulty": "Bibelkundig",
+      "Text": "Wie viele Tage dauerte die Schöpfungsarbeit im biblischen Bericht?",
+      "Answers": [
+        "Sechs",
+        "Drei",
+        "Zehn",
+        "Zwölf"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Nach sechs Schöpfungstagen ruhte Gott am siebten Tag.",
+      "Source": "1. Mose 1; 2,1–3"
+    },
+    {
+      "Id": "ot-005",
+      "PackId": "ot",
+      "Difficulty": "Bibelkundig",
+      "Text": "An welchem Berg empfing Mose die Gebote?",
+      "Answers": [
+        "Sinai",
+        "Karmel",
+        "Ararat",
+        "Ölberg"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Gott schloss am Sinai seinen Bund mit Israel.",
+      "Source": "2. Mose 19–20"
+    },
+    {
+      "Id": "ot-006",
+      "PackId": "ot",
+      "Difficulty": "Bibelkundig",
+      "Text": "Welches Buch erzählt vom Auszug Israels aus Ägypten?",
+      "Answers": [
+        "2. Mose",
+        "Rut",
+        "Prediger",
+        "Ester"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Das zweite Buch Mose wird auch Exodus genannt.",
+      "Source": "2. Mose 12–14"
+    },
+    {
+      "Id": "ot-007",
+      "PackId": "ot",
+      "Difficulty": "Experte",
+      "Text": "Welcher Prophet trat auf dem Berg Karmel den Baalspropheten entgegen?",
+      "Answers": [
+        "Elia",
+        "Jeremia",
+        "Jona",
+        "Hesekiel"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Elia rief Israel dazu auf, sich dem lebendigen Gott zuzuwenden.",
+      "Source": "1. Könige 18,20–39"
+    },
+    {
+      "Id": "ot-008",
+      "PackId": "ot",
+      "Difficulty": "Experte",
+      "Text": "Wer leitete nach Mose den Einzug nach Kanaan?",
+      "Answers": [
+        "Josua",
+        "Aaron",
+        "Samuel",
+        "Salomo"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Josua übernahm die Leitung nach dem Tod Moses.",
+      "Source": "Josua 1,1–9"
+    }
+  ]
+}

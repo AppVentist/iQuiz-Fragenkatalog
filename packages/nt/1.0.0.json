@@ -1,0 +1,130 @@
+{
+  "FormatVersion": 1,
+  "Id": "nt",
+  "Version": "1.0.0",
+  "Title": "Neues Testament",
+  "Description": "Leben, Lehren und Hoffnung",
+  "Artwork": 1,
+  "Questions": [
+    {
+      "Id": "nt-001",
+      "PackId": "nt",
+      "Difficulty": "Anfänger",
+      "Text": "In welcher Stadt wurde Jesus geboren?",
+      "Answers": [
+        "Bethlehem",
+        "Rom",
+        "Athen",
+        "Nazareth"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Die Geburt Jesu wird in Bethlehem erzählt.",
+      "Source": "Lukas 2,1–7"
+    },
+    {
+      "Id": "nt-002",
+      "PackId": "nt",
+      "Difficulty": "Anfänger",
+      "Text": "Was tat Jesus für kranke Menschen?",
+      "Answers": [
+        "Er heilte sie",
+        "Er versteckte sich",
+        "Er schickte alle weg",
+        "Er sammelte Steine"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Jesus wandte sich kranken Menschen zu und heilte sie.",
+      "Source": "Matthäus 4,23–24"
+    },
+    {
+      "Id": "nt-003",
+      "PackId": "nt",
+      "Difficulty": "Anfänger",
+      "Text": "Wie viele Apostel wählte Jesus aus?",
+      "Answers": [
+        "Zwölf",
+        "Sieben",
+        "Drei",
+        "Zwanzig"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Jesus wählte zwölf Männer aus und nannte sie Apostel.",
+      "Source": "Lukas 6,12–16"
+    },
+    {
+      "Id": "nt-004",
+      "PackId": "nt",
+      "Difficulty": "Bibelkundig",
+      "Text": "Wer half im Gleichnis dem verletzten Mann?",
+      "Answers": [
+        "Ein Samariter",
+        "Ein Priester",
+        "Ein Levit",
+        "Ein Händler aus Rom"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Der Samariter zeigte Mitgefühl und kümmerte sich um den Verletzten.",
+      "Source": "Lukas 10,30–37"
+    },
+    {
+      "Id": "nt-005",
+      "PackId": "nt",
+      "Difficulty": "Bibelkundig",
+      "Text": "Welches Gebet lehrte Jesus seine Jünger?",
+      "Answers": [
+        "Das Vaterunser",
+        "Das Lied des Mose",
+        "Hannas Gebet",
+        "Salomos Tempelgebet"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Jesus lehrte seine Jünger, vertrauensvoll zum Vater zu beten.",
+      "Source": "Matthäus 6,9–13"
+    },
+    {
+      "Id": "nt-006",
+      "PackId": "nt",
+      "Difficulty": "Bibelkundig",
+      "Text": "An welchem Fest berichtet die Apostelgeschichte von der Ausgießung des Geistes?",
+      "Answers": [
+        "Pfingsten",
+        "Purim",
+        "Laubhüttenfest",
+        "Tempelweihfest"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Zu Pfingsten wurden die versammelten Jünger mit dem Heiligen Geist erfüllt.",
+      "Source": "Apostelgeschichte 2,1–4"
+    },
+    {
+      "Id": "nt-007",
+      "PackId": "nt",
+      "Difficulty": "Experte",
+      "Text": "In welchem Brief steht das bekannte Kapitel über die Liebe?",
+      "Answers": [
+        "1. Korinther",
+        "Galater",
+        "Philemon",
+        "Judas"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Paulus beschreibt in 1. Korinther 13 die bleibende Bedeutung der Liebe.",
+      "Source": "1. Korinther 13"
+    },
+    {
+      "Id": "nt-008",
+      "PackId": "nt",
+      "Difficulty": "Experte",
+      "Text": "Welcher Evangelist verfasste auch die Apostelgeschichte?",
+      "Answers": [
+        "Lukas",
+        "Markus",
+        "Matthäus",
+        "Johannes"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Beide Bücher richten sich an Theophilus und bilden ein zusammengehöriges Werk.",
+      "Source": "Lukas 1,1–4; Apostelgeschichte 1,1–3"
+    }
+  ]
+}

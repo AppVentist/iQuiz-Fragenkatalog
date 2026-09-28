@@ -1,0 +1,65 @@
+{
+  "FormatVersion": 1,
+  "Packages": [
+    {
+      "Id": "ot",
+      "Version": "1.0.0",
+      "Title": "Altes Testament",
+      "Description": "Geschichten, Gesetz und Verheißungen",
+      "Artwork": 0,
+      "Url": "packages/ot/1.0.0.json",
+      "SizeBytes": 3459,
+      "Sha256": "e8440f6e174975049057c4fea7caa772193b9439a995245957c21ea7644056da"
+    },
+    {
+      "Id": "nt",
+      "Version": "1.0.0",
+      "Title": "Neues Testament",
+      "Description": "Leben, Lehren und Hoffnung",
+      "Artwork": 1,
+      "Url": "packages/nt/1.0.0.json",
+      "SizeBytes": 3716,
+      "Sha256": "49c139c1e99f03b4d029bc1ef40b9eabc4f64c29e58371958ee18be83badafc5"
+    },
+    {
+      "Id": "people",
+      "Version": "1.0.0",
+      "Title": "Personen der Bibel",
+      "Description": "Menschen, die Geschichte schrieben",
+      "Artwork": 2,
+      "Url": "packages/people/1.0.0.json",
+      "SizeBytes": 3547,
+      "Sha256": "8f3fc66287975b692f90f327ea19c82cc040c5da68bccadcded713b42fbd0199"
+    },
+    {
+      "Id": "places",
+      "Version": "1.0.0",
+      "Title": "Biblisches Stadt · Land · Fluss",
+      "Description": "Orte, Länder und spannende Zusammenhänge",
+      "Artwork": 3,
+      "Url": "packages/places/1.0.0.json",
+      "SizeBytes": 3571,
+      "Sha256": "fafcfc29babb38be1a06e88e5963264a6631f714f16525739c869fe4716b7eef"
+    },
+    {
+      "Id": "sda-history",
+      "Version": "1.0.0",
+      "Title": "Adventgeschichte",
+      "Description": "Glaube, Aufbruch und weltweite Hoffnung",
+      "Artwork": 4,
+      "Url": "packages/sda-history/1.0.0.json",
+      "SizeBytes": 4081,
+      "Sha256": "1df9bc8d6e4ab460684faad2fe4ac4a6c312abb8bbb6e706124c51d46dbc32cd"
+    },
+    {
+      "Id": "sda-pioneers",
+      "Version": "1.0.0",
+      "Title": "Pioniere der Adventisten",
+      "Description": "Mutige Menschen, bleibende Spuren",
+      "Artwork": 5,
+      "Url": "packages/sda-pioneers/1.0.0.json",
+      "SizeBytes": 4441,
+      "Sha256": "b27e9b5b5123027a8995825a2facb8b847d5b6d2f68640568dfb4719a4138d0e"
+    }
+  ]
+}

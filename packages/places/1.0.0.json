@@ -1,0 +1,130 @@
+{
+  "FormatVersion": 1,
+  "Id": "places",
+  "Version": "1.0.0",
+  "Title": "Biblisches Stadt · Land · Fluss",
+  "Description": "Orte, Länder und spannende Zusammenhänge",
+  "Artwork": 3,
+  "Questions": [
+    {
+      "Id": "places-001",
+      "PackId": "places",
+      "Difficulty": "Anfänger",
+      "Text": "In welchem Fluss wurde Jesus getauft?",
+      "Answers": [
+        "Jordan",
+        "Nil",
+        "Rhein",
+        "Donau"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Johannes taufte Jesus im Jordan.",
+      "Source": "Markus 1,9"
+    },
+    {
+      "Id": "places-002",
+      "PackId": "places",
+      "Difficulty": "Anfänger",
+      "Text": "Aus welchem Land führte Mose das Volk Israel?",
+      "Answers": [
+        "Ägypten",
+        "Italien",
+        "Spanien",
+        "Griechenland"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Der Auszug führte Israel aus Ägypten in die Freiheit.",
+      "Source": "2. Mose 12,31–42"
+    },
+    {
+      "Id": "places-003",
+      "PackId": "places",
+      "Difficulty": "Anfänger",
+      "Text": "In welcher Stadt wuchs Jesus auf?",
+      "Answers": [
+        "Nazareth",
+        "Rom",
+        "Jericho",
+        "Ninive"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Jesus wuchs in Nazareth in Galiläa auf.",
+      "Source": "Lukas 2,39–40"
+    },
+    {
+      "Id": "places-004",
+      "PackId": "places",
+      "Difficulty": "Bibelkundig",
+      "Text": "Welche Stadt hatte Mauern, die nach Israels Umzug einstürzten?",
+      "Answers": [
+        "Jericho",
+        "Athen",
+        "Korinth",
+        "Ephesus"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Das Buch Josua erzählt vom Fall der Mauern Jerichos.",
+      "Source": "Josua 6"
+    },
+    {
+      "Id": "places-005",
+      "PackId": "places",
+      "Difficulty": "Bibelkundig",
+      "Text": "Zu welcher Stadt wurde Jona gesandt?",
+      "Answers": [
+        "Ninive",
+        "Bethlehem",
+        "Tarsus",
+        "Damaskus"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Gott sandte Jona mit einer Botschaft nach Ninive.",
+      "Source": "Jona 1,1–2; 3,1–5"
+    },
+    {
+      "Id": "places-006",
+      "PackId": "places",
+      "Difficulty": "Bibelkundig",
+      "Text": "Auf welcher Insel strandete Paulus nach einem Schiffbruch?",
+      "Answers": [
+        "Malta",
+        "Kreta",
+        "Zypern",
+        "Patmos"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Nach der Rettung erfuhren die Schiffbrüchigen, dass die Insel Malta hieß.",
+      "Source": "Apostelgeschichte 28,1"
+    },
+    {
+      "Id": "places-007",
+      "PackId": "places",
+      "Difficulty": "Experte",
+      "Text": "Auf welcher Insel empfing Johannes die Offenbarung?",
+      "Answers": [
+        "Patmos",
+        "Rhodos",
+        "Sizilien",
+        "Malta"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Johannes nennt Patmos als Ort seines Aufenthalts.",
+      "Source": "Offenbarung 1,9"
+    },
+    {
+      "Id": "places-008",
+      "PackId": "places",
+      "Difficulty": "Experte",
+      "Text": "In welcher Stadt wurden die Jünger zuerst Christen genannt?",
+      "Answers": [
+        "Antiochia",
+        "Jerusalem",
+        "Alexandria",
+        "Rom"
+      ],
+      "CorrectIndex": 0,
+      "Explanation": "Die Apostelgeschichte nennt Antiochia als Ursprung dieser Bezeichnung.",
+      "Source": "Apostelgeschichte 11,26"
+    }
+  ]
+}

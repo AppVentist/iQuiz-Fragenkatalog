@@ -1,0 +1,3 @@
+* text=auto eol=lf
+# Package hashes refer to exact bytes; never normalize JSON line endings.
+*.json -text
