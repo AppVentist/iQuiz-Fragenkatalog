@@ -27,6 +27,5 @@ foreach ($entry in $index.Packages) {
         foreach ($field in @('Text', 'Explanation', 'Source')) { if ([string]::IsNullOrWhiteSpace($question.$field)) { throw "Missing $field" } }
         if ($question.Text.Length -gt 4000 -or $question.Explanation.Length -gt 8000 -or $question.Source.Length -gt 2000) { throw 'Question text too long.' }
     }
-    foreach ($level in @('Anfänger', 'Bibelkundig', 'Experte')) { if (-not @($package.Questions | Where-Object Difficulty -CEQ $level).Count) { throw "Missing difficulty: $level" } }
 }
 Write-Output "Validated $($packIds.Count) packages and $($questionIds.Count) questions."

@@ -31,7 +31,7 @@ packages/
 
 Der Katalog enthält Metadaten, Paketversion, relativen Downloadpfad, Dateigröße in Bytes und SHA-256 der tatsächlichen Download-Datei. Eine Paketdatei enthält `FormatVersion`, `Id`, `Version`, `Title`, `Description`, `Artwork` und `Questions`. `Artwork` verwendet vorerst einen der sechs mitgelieferten Bildausschnitte (0–5); externe Bilder werden nicht geladen.
 
-Jede Frage hat eine eindeutige ID, die zum Paket passende `PackId`, `Difficulty` (`Anfänger`, `Bibelkundig`, `Experte`), vier Antworten, `CorrectIndex` (0–3), Erklärung und Quelle. Alle drei Stufen müssen pro Paket vertreten sein. `FormatVersion` ist aktuell 1; Paketversionen sind Zahlen im Muster `1.0.0`, ohne Vorabversions-Suffixe.
+Jede Frage hat eine eindeutige ID, die zum Paket passende `PackId`, `Difficulty` (`Anfänger`, `Bibelkundig`, `Experte`), vier Antworten, `CorrectIndex` (0–3), Erklärung und Quelle. Ein Paket darf eine, zwei oder alle drei Stufen enthalten, muss aber mindestens eine Frage haben. Die App bietet direkt beim Paket nur die vorhandenen Stufen zum Starten an. Ältere App-Versionen mit der bisherigen Pflicht zu drei Stufen benötigen dafür ein App-Update. `FormatVersion` ist aktuell 1; Paketversionen sind Zahlen im Muster `1.0.0`, ohne Vorabversions-Suffixe.
 
 ## Neue Pakete und Updates
 
